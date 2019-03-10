@@ -2,15 +2,23 @@
 2. git status (should show changes on your local repository )
 3. git add ( to make the files to make its unstage to stage )
 
-HP 9480m@HP9480m-PC MINGW64 /c/SRC/gittest (master)
-$ git config --local user.email "sayed811@gmail..com"
 
-HP 9480m@HP9480m-PC MINGW64 /c/SRC/gittest (master)
-$ git config --local user.name "masayed811"
-
-HP 9480m@HP9480m-PC MINGW64 /c/SRC/gittest (master)
-
-44) git commit --m
+ 3) git config --local user.email "sayed811@gmail.com"
 
 
-55) git push origin master ( git remort add origin)
+ 4) git config --local user.name "masayed811"
+
+
+5) git add .
+
+6)  git commit -m 'added steps'
+
+
+ 7) git status
+
+ 8) git commit -m 'mess' ( messege could be any like:  added steps)
+
+
+ 9) git push origin master
+
+ 8)  git remort add origin url
