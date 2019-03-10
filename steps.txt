@@ -1,3 +1,16 @@
 1. git clone url ( this will clone project from cloud to your local machine )
 2. git status (should show changes on your local repository )
 3. git add ( to make the files to make its unstage to stage )
+
+HP 9480m@HP9480m-PC MINGW64 /c/SRC/gittest (master)
+$ git config --local user.email "sayed811@gmail..com"
+
+HP 9480m@HP9480m-PC MINGW64 /c/SRC/gittest (master)
+$ git config --local user.name "masayed811"
+
+HP 9480m@HP9480m-PC MINGW64 /c/SRC/gittest (master)
+
+44) git commit --m
+
+
+55) git push origin master ( git remort add origin)
