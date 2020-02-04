@@ -11,7 +11,7 @@
 
 5) git add .
 
-6)  git commit -m 'added steps'
+
 
 
  7) git status
